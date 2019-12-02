@@ -1,1 +1,6 @@
 SpringMvc 2.5.6配置方式
+
+应用程序启动：clean package jetty:run -Djetty.port=8030
+
+测试地址：http://127.0.0.1:8030/test/sayOk.action
+        http://127.0.0.1:8030/test/sayHello.do
